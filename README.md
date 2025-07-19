@@ -1,18 +1,19 @@
-# Чекер airdrops
+# Airdrop Checker
 
-## Установка
-`npm install` 
+## Installation
 
-Заполняем файлы адресами в папке `addresses`
+`npm install`
 
-Для запуска `npm start`
+Fill the files with addresses in the `addresses` folder
+
+To run: `npm start`
 
 ### Чекер
 
-* Altlayer
-* Rabby points
-* Zetachain
-* Frame
-* Anoma
-* Dymension
-* MEME
+-   Altlayer
+-   Rabby points
+-   Zetachain
+-   Frame
+-   Anoma
+-   Dymension
+-   MEME
